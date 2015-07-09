@@ -1,3 +1,3 @@
 # christmas-recipes
-Test  christmas-recipes
+Test  Christmas-Recipes
 
